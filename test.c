@@ -7,5 +7,6 @@ int main()
 	printf("this is test\n");
 	printf("zhujunlong\n");
 	printf("33333\n");
+	printf("currently\n");
 	return 0;
 }
