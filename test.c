@@ -5,5 +5,7 @@ int main()
 {
 	printf("hello world...\n");
 	printf("this is test\n");
+	printf("zhujunlong\n");
+	printf("33333\n");
 	return 0;
 }
